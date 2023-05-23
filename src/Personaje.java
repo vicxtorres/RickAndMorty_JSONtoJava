@@ -5,7 +5,7 @@ public class Personaje
     private int id;
     private String name;
     private String species; //human animal
-    private String status; //alive death
+    private String status; //alive dead
     private String gender; //male female
     private Origin origin;
     private Location location;
